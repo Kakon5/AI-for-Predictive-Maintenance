@@ -14,7 +14,7 @@ This project outlines a theoretical framework for integrating AI into a smart fa
 - **Predictive maintenance** using historical sensor data
 - **Proactive decision-making** to reduce unplanned downtime, improve quality, and increase overall equipment effectiveness (OEE)
 
-The concept is inspired by real-world factory digitalization needs, such as those at **Aira**, a heat pump manufacturer.
+The concept is inspired by real-world factory digitalization needs.
 
 ---
 
