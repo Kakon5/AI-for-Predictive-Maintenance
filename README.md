@@ -48,7 +48,7 @@ The proposed solution is divided into two integrated modules:
 
 ## 📈 Conceptual Pipeline Diagram
 
-![Concept Diagram](images/predictive_maintenance_diagram.png)
+![Concept Diagram](images)
 
 ---
 
