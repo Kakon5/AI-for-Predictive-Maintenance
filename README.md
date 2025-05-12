@@ -48,7 +48,7 @@ The proposed solution is divided into two integrated modules:
 
 ## 📈 Conceptual Pipeline Diagram
 
-![Concept Diagram](images)
+![Concept Diagram](Images)
 
 ---
 
